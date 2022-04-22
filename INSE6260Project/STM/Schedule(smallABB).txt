@@ -1,0 +1,23 @@
+This is the schedule for thewest
+In the west  at the time 05:00:00 and it is busyby the bus 	1west05:00:00 stateOfCharging: 	294	the state of charging after reip is	254
+In the west  at the time 05:30:00 and it is busyby the bus 	3west05:30:00 stateOfCharging: 	294	the state of charging after reip is	254
+In the west  at the time 08:30:00 and it is busyby the bus 	2east05:00:00 stateOfCharging: 	261	the state of charging after reip is	221
+In the west  at the time 10:30:00 and it is busyby the bus 	1west05:00:00 stateOfCharging: 	229	the state of charging after reip is	189
+In the west  at the time 12:30:00 and it is busyby the bus 	2east05:00:00 stateOfCharging: 	196	the state of charging after reip is	156
+In the west  at the time 14:00:00 and it is busyby the bus 	1west05:00:00 stateOfCharging: 	164	the state of charging after reip is	124
+In the west  at the time 16:00:00 and it is busyby the bus 	2east05:00:00 stateOfCharging: 	131	the state of charging after reip is	91
+In the west  at the time 18:00:00 and it is busyby the bus 	1west05:00:00 stateOfCharging: 	99	the state of charging after reip is	59
+In the west  at the time 19:30:00 and it is busyby the bus 	4east05:30:00 stateOfCharging: 	261	the state of charging after reip is	221
+In the west  at the time 21:30:00 and it is busyby the bus 	3west05:30:00 stateOfCharging: 	229	the state of charging after reip is	189
+In the west  at the time 22:30:00 and it is emptyby the bus 	0westnull stateOfCharging: 	0	the state of charging after reip is	0
+This is the schedule for thewest
+In the east  at the time 05:00:00 and it is busyby the bus 	2east05:00:00 stateOfCharging: 	294	the state of charging after reip is	254
+In the east  at the time 05:30:00 and it is busyby the bus 	4east05:30:00 stateOfCharging: 	294	the state of charging after reip is	254
+In the east  at the time 08:30:00 and it is busyby the bus 	1west05:00:00 stateOfCharging: 	261	the state of charging after reip is	221
+In the east  at the time 10:30:00 and it is busyby the bus 	2east05:00:00 stateOfCharging: 	229	the state of charging after reip is	189
+In the east  at the time 12:30:00 and it is busyby the bus 	1west05:00:00 stateOfCharging: 	196	the state of charging after reip is	156
+In the east  at the time 14:00:00 and it is busyby the bus 	2east05:00:00 stateOfCharging: 	164	the state of charging after reip is	124
+In the east  at the time 16:00:00 and it is busyby the bus 	1west05:00:00 stateOfCharging: 	131	the state of charging after reip is	91
+In the east  at the time 18:00:00 and it is busyby the bus 	2east05:00:00 stateOfCharging: 	99	the state of charging after reip is	59
+In the east  at the time 19:30:00 and it is busyby the bus 	3west05:30:00 stateOfCharging: 	261	the state of charging after reip is	221
+In the east  at the time 21:30:00 and it is busyby the bus 	4east05:30:00 stateOfCharging: 	229	the state of charging after reip is	189

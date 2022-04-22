@@ -1,0 +1,140 @@
+
+bus ID: 1west05:00:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 294             east05:00:00    05:00:00        06:00:00        east         
+254km    east2OC450kw    06:00:00                06:01:00                0Km                             null                 null                 261             west08:30:00    08:30:00        09:30:00        west         
+221km    west1OC450kw    09:30:00                09:31:00                0Km                             null                 null                 229             east10:30:00    10:30:00        11:30:00        east         
+189km    east2OC450kw    11:30:00                11:31:00                0Km                             null                 null                 196             west12:30:00    12:30:00        13:30:00        west         
+156km    west1OC450kw    13:30:00                13:31:00                0Km                             null                 null                 164             east14:00:00    14:00:00        15:00:00        east         
+124km    east2OC450kw    15:00:00                15:01:00                0Km                             null                 null                 131             west16:00:00    16:00:00        17:00:00        west         
+91km     west1OC450kw    17:00:00                17:01:00                0Km                             null                 null                 99              east18:00:00    18:00:00        19:00:00        east         
+59km     east2OC450kw    19:00:00                19:01:00                66Km            east3DC50KW     19:01:00             00:01:00             0                               null            null            null         
+
+bus ID: 2east05:00:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 294             west05:00:00    05:00:00        06:00:00        west         
+254km    west1OC450kw    06:00:00                06:01:00                0Km                             null                 null                 261             east08:30:00    08:30:00        09:30:00        east         
+221km    east2OC450kw    09:30:00                09:31:00                0Km                             null                 null                 229             west10:30:00    10:30:00        11:30:00        west         
+189km    west1OC450kw    11:30:00                11:31:00                0Km                             null                 null                 196             east12:30:00    12:30:00        13:30:00        east         
+156km    east2OC450kw    13:30:00                13:31:00                0Km                             null                 null                 164             west14:00:00    14:00:00        15:00:00        west         
+124km    west1OC450kw    15:00:00                15:01:00                0Km                             null                 null                 131             east16:00:00    16:00:00        17:00:00        east         
+91km     east2OC450kw    17:00:00                17:01:00                0Km                             null                 null                 99              west18:00:00    18:00:00        19:00:00        west         
+59km     west1OC450kw    19:00:00                19:01:00                66Km            west4DC50KW     19:01:00             00:01:00             0                               null            null            null         
+
+bus ID: 3west05:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 294             east05:30:00    05:30:00        06:30:00        east         
+254km    east2OC450kw    06:30:00                06:31:00                0Km                             null                 null                 261             west19:30:00    19:30:00        20:30:00        west         
+221km    west1OC450kw    20:30:00                20:31:00                0Km                             null                 null                 229             east21:30:00    21:30:00        22:30:00        east         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 4east05:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 294             west05:30:00    05:30:00        06:30:00        west         
+254km    west1OC450kw    06:30:00                06:31:00                0Km                             null                 null                 261             east19:30:00    19:30:00        20:30:00        east         
+221km    east2OC450kw    20:30:00                20:31:00                0Km                             null                 null                 229             west21:30:00    21:30:00        22:30:00        west         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 5west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 6west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 7west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 8west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 9west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 10west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 11west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 12west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 13west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 14west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 15west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 16west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 17west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 18west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 19west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 20west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 21west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 22west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 23west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 24west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 25west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 26west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 27west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 28west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 29west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
+
+bus ID: 30west22:30:00
+AT_SOCkm Charger_ID      Start_Time_quickCharg   End_Time_quickCharge    AT_SOC(ON)      Charger_ID2     Start_Time_overnight End_Time_overnight   BT_SOC_trip     Trip_ID         Start_Time_Trip End_Time_Trip   Reach         
+0km                      null                    null                    0Km                             null                 null                 0                               null            null            null         
